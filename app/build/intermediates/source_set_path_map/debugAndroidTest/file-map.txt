@@ -1,0 +1,9 @@
+com.example.ipr1.test.app-core-1.5.0-0 C:\Users\очко\.gradle\caches\transforms-3\43d92f142369654f00961f6a107028dc\transformed\core-1.5.0\res
+com.example.ipr1.test.app-annotation-experimental-1.1.0-1 C:\Users\очко\.gradle\caches\transforms-3\cdcb8e50109b2c2b9e961e9ab007ca34\transformed\annotation-experimental-1.1.0\res
+com.example.ipr1.test.app-androidTest-2 C:\ppo\LAB_1_PPO\app\build\generated\res\resValues\androidTest\debug
+com.example.ipr1.test.app-androidTest-3 C:\ppo\LAB_1_PPO\app\build\generated\res\rs\androidTest\debug
+com.example.ipr1.test.app-mergeDebugAndroidTestResources-4 C:\ppo\LAB_1_PPO\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.ipr1.test.app-mergeDebugAndroidTestResources-5 C:\ppo\LAB_1_PPO\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.ipr1.test.app-merged_res-6 C:\ppo\LAB_1_PPO\app\build\intermediates\merged_res\debugAndroidTest
+com.example.ipr1.test.app-androidTest-7 C:\ppo\LAB_1_PPO\app\src\androidTest\res
+com.example.ipr1.test.app-androidTestDebug-8 C:\ppo\LAB_1_PPO\app\src\androidTestDebug\res
